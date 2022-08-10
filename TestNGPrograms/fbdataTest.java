@@ -31,6 +31,7 @@ public class fbdataTest {
     return new Object[][] {
       new Object[] { "dipalishinde613@gmail.com", "123456"},
       new Object[] { "akshayshinde105@gmail.com","123456"},
+	new Object[] { "vishalmohite1810@gmail.com","5423"},
     };
   }
 }
